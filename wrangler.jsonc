@@ -1,7 +1,7 @@
 
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "adithyaPortfolio",
+  "name": "adithya-portfolio",
   "compatibility_date": "2026-10-06",
   "workers_dev": true,
   "preview_urls": false,
